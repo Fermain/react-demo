@@ -1,8 +1,14 @@
+import { Helmet } from "react-helmet";
 import { Menu } from "../components/menu/Menu";
 import products from "../data/products.json";
 
 export default function MenuPage() {
   return (
-    <Menu items={products}/>
-  )
+    <>
+      <Helmet>
+        <title>what's cooking??</title>
+      </Helmet>
+      <Menu items={products} />
+    </>
+  );
 }
