@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Cheese Pizza",
+    "description": "Classic cheese pizza with our special blend of mozzarella and tomato sauce.",
+    "price": 10.99
+  },
+  {
+    "title": "Caesar Salad",
+    "description": "Fresh romaine lettuce with croutons, parmesan cheese and Caesar dressing.",
+    "price": 7.99
+  },
+  {
+    "title": "Spaghetti Bolognese",
+    "description": "Traditional Italian dish with our special homemade Bolognese sauce and Parmesan cheese.",
+    "price": 13.99
+  },
+  {
+    "title": "Chocolate Sundae",
+    "description": "Creamy vanilla ice cream topped with hot fudge, whipped cream, and a cherry.",
+    "price": 5.99
+  },
+  {
+    "title": "Cappuccino",
+    "description": "Hot espresso with frothy steamed milk, sprinkled with a dusting of cocoa powder.",
+    "price": 3.99
+  }
+]
