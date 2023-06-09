@@ -1,8 +1,7 @@
-import { CartContext } from "./CartProvider"
-import { useContext } from "react"
+import { useCart } from "./CartProvider"
 
 export default function Product({ id, title, price }) {
-    const { addToCart } = useContext(CartContext)
+    const { addToCart } = useCart()
 
     return (<div className="product" id={id}>
         <h2>{title}</h2>
